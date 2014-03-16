@@ -3,8 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-  api.use('jquery', 'client');
-
   var path = Npm.require('path');
   var asset_path = path.join('assets');
   api.add_files(path.join(asset_path, 'metro-bootstrap.min.css'), 'client');

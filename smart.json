@@ -5,5 +5,7 @@
   "author": "Fernando Mumbach",
   "version": "2.0.33",
   "git": "https://github.com/fermuch/meteor-metroui",
-  "packages": { }
+  "packages": {
+    "jquery": "2.0.31"
+  }
 }
