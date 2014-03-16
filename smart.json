@@ -3,7 +3,7 @@
   "description": "MetroUI, a set of styles to create a site with an interface similar to Windows 8",
   "homepage": "http://metroui.org.ua/",
   "author": "Fernando Mumbach",
-  "version": "2.0.32",
+  "version": "2.0.33",
   "git": "https://github.com/fermuch/meteor-metroui",
   "packages": { }
 }
